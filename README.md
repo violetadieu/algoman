@@ -1,12 +1,7 @@
 # violetadieu.github.io
-upgrade my skills
-
-What I want to learn skill is
-
-Java spring
-
-Nginx
-
-Searching engine such as spinx
-
 Algorithm
+1.Dynamic Programming
+2.Greedy Algorithm
+3.DFS&BFS
+4.Stack
+5.Network-Flow
