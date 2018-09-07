@@ -5,3 +5,4 @@ Algorithm
 3.DFS&BFS
 4.Stack
 5.Network-Flow
+6.Math
