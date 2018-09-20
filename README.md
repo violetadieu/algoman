@@ -7,3 +7,4 @@ Algorithm
 5.Network-Flow
 6.Math
 7.Backtracking
+8.etc(Competition. ex.KAKAO Blind Test)
