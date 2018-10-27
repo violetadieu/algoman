@@ -9,4 +9,5 @@ Algorithm
 7.Backtracking
 8.Brute-Force
 9.Lis(Longest Increasing Subsequence)
-10.etc(Competition. ex.KAKAO Blind Test)
+10.Sorting
+11.etc(Competition. ex.KAKAO Blind Test)
