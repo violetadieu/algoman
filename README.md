@@ -10,4 +10,5 @@ Algorithm
 8.Brute-Force
 9.Lis(Longest Increasing Subsequence)
 10.Sorting
-11.etc(Competition. ex.KAKAO Blind Test)
+11.Binary Search
+12.etc(Competition. ex.KAKAO Blind Test)
