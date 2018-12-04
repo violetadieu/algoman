@@ -6,15 +6,17 @@ using namespace std;
 int main(){
     cin.tie(NULL);
     cout.tie(NULL);
-    int n,target;
-    vector<int>v;
-    cin>>n>>target;
+    int n,k;
+    cin>>n>>k;
+    int *num=new int[n];
     for(int i=0;i<n;i++){
-        int tmp;
-        cin>>tmp;
-        v.push_back(tmp);
+        scanf("%d",&num[i]);
     }
-    sort(v.begin(),v.end());
-    cout<<v[target-1];
+
+    sort(&num[0],&num[n]);
+    cout<<num[k-1];
+    delete[] num;
+
     return 0;
+
 }
