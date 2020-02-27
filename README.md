@@ -1,12 +1,12 @@
 # violetadieu.github.io
-Algorithm
+Algorithm <br>
 1.Dynamic Programming
 2.Greedy Algorithm
 3.DFS&BFS
 4.Stack
 5.Network-Flow
 6.Math
-7.Backtracking
+7.Backtracking <br>
 8.Brute-Force
 9.Lis(Longest Increasing Subsequence)
 10.Sorting
