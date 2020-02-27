@@ -1,5 +1,6 @@
 # violetadieu.github.io
 Algorithm <br><br>
+//Each item without links is Algorithm of BOJ(https://www.acmicpc.net/)<br><br>
 1.Dynamic Programming<br><br>
 2.Greedy Algorithm<br><br>
 3.DFS&BFS<br><br>
