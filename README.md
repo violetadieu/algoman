@@ -1,5 +1,5 @@
 # violetadieu.github.io
-<h6>Algorithm</h6> <br><br>
+<h2>Algorithm</h2> <br><br>
 //Each item without links is Algorithm of BOJ(https://www.acmicpc.net/)<br><br>
 1.Dynamic Programming<br><br>
 2.Greedy Algorithm<br><br>
