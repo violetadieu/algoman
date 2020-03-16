@@ -35,6 +35,8 @@ int main() {
     int s=1;
 
     vector<int>ans=solution(n,s);
-
+    for(int i=0;i<ans.size();i++){
+        cout<<ans[i]<<endl;
+    }
     return 0;
 }
