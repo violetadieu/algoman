@@ -12,7 +12,7 @@ public class Main {
         for(int i=0;i<4;i++){
                 int xm=b+MX[i];
                 int ym=a+MY[i];
-                //움직일 수 있는 경우
+
                 if(0<=xm&&xm<n&&0<=ym&&ym<n&&forest[ym][xm]>forest[a][b]){
                     DP[a][b]=Math.max(DP[a][b],DFS(ym,xm)+1);
                 }
