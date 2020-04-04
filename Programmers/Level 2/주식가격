@@ -1,0 +1,27 @@
+#include <string>
+#include <vector>
+
+using namespace std;
+
+vector<int> solution(vector<int> prices) {
+    vector<int> answer;
+    vector<bool>chk;
+    for(int i=0;i<prices.size();i++){
+        answer.push_back(0);
+        chk.push_back(true);
+    }
+    for(int i=0;i<prices.size();i++){
+        int now=prices[i];
+        for(int k=i+1;k<prices.size();k++){
+            if(!chk[i])
+                break;
+            if(prices[k]>=now)
+                answer[i]++;
+            else{
+                answer[i]++;
+                chk[i]=false;
+            }
+        }
+    }
+    return answer;
+}
