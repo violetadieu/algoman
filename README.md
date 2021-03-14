@@ -13,8 +13,9 @@
 10.Lis(Longest Increasing Subsequence)<br><br>
 11.Sorting<br><br>
 12.Binary Search<br><br>
-13.String<br><br>
-14.SW Expert Academy(https://swexpertacademy.com)<br><br>
-15.Programmers_Algrorithm(https://programmers.co.kr/)<br><br>
-16.Programmers_SQL(https://programmers.co.kr/)<br><br>
-17.etc(Competition. ex.KAKAO Blind Test)<br><br>
+13.Topological Sort<br><br>
+14.String<br><br>
+15.SW Expert Academy(https://swexpertacademy.com)<br><br>
+16.Programmers_Algrorithm(https://programmers.co.kr/)<br><br>
+17.Programmers_SQL(https://programmers.co.kr/)<br><br>
+18.etc(Competition. ex.KAKAO Blind Test)<br><br>
